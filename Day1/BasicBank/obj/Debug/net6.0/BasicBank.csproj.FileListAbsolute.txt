@@ -1,0 +1,15 @@
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\bin\Debug\net6.0\BasicBank.exe
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\bin\Debug\net6.0\BasicBank.deps.json
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\bin\Debug\net6.0\BasicBank.runtimeconfig.json
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\bin\Debug\net6.0\BasicBank.dll
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\bin\Debug\net6.0\BasicBank.pdb
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.dll
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\refint\BasicBank.dll
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.pdb
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\BasicBank.genruntimeconfig.cache
+D:\PrajwalSurajCDAC\DOTNET\Practice\Day1\BasicBank\obj\Debug\net6.0\ref\BasicBank.dll
