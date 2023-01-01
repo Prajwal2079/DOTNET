@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GraphicsTester/1.0.0": {
+        "dependencies": {
+          "GraphicsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GraphicsTester.dll": {}
+        }
+      },
+      "GraphicsLibrary/1.0.0": {
+        "runtime": {
+          "GraphicsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphicsTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphicsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
