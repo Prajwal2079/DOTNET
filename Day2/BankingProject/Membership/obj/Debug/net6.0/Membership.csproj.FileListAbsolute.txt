@@ -1,0 +1,15 @@
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\bin\Debug\net6.0\Membership.deps.json
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\bin\Debug\net6.0\Membership.dll
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\bin\Debug\net6.0\Membership.pdb
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.dll
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\refint\Membership.dll
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.pdb
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\ref\Membership.dll
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\bin\Debug\net6.0\Account.dll
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\bin\Debug\net6.0\Account.pdb
+D:\PrajwalSurajCDAC\DOTNET\Day2\BankingProject\Membership\obj\Debug\net6.0\Membership.csproj.CopyComplete

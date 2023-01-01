@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankingTester/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "BankingTransaction": "1.0.0",
+          "Membership": "1.0.0"
+        },
+        "runtime": {
+          "BankingTester.dll": {}
+        }
+      },
+      "Account/1.0.0": {
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
+      "BankingTransaction/1.0.0": {
+        "runtime": {
+          "BankingTransaction.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0"
+        },
+        "runtime": {
+          "Membership.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankingTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankingTransaction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
