@@ -1,0 +1,15 @@
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day7\ExtensionMethods\Calculator\obj\Debug\net6.0\ref\Calculator.dll

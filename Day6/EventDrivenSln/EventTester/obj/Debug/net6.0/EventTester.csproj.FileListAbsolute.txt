@@ -1,0 +1,15 @@
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\bin\Debug\net6.0\EventTester.exe
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\bin\Debug\net6.0\EventTester.deps.json
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\bin\Debug\net6.0\EventTester.runtimeconfig.json
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\bin\Debug\net6.0\EventTester.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\bin\Debug\net6.0\EventTester.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\refint\EventTester.dll
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\EventTester.genruntimeconfig.cache
+D:\PrajwalSurajCDAC\.NET\DotNet\Day6\EventDrivenSln\EventTester\obj\Debug\net6.0\ref\EventTester.dll
