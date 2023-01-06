@@ -1,0 +1,27 @@
+@{
+ ViewData["Title"] = "Register";
+}
+
+<div class="text-center">
+    <h2>Registration Form</h2>
+    <form action="/home/registered">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname">
+        <br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email">
+        <br>
+        <label for="mobno">Mobile Number:</label><br>
+        <input type="text" id="mobno" name="mobno">
+        <br>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password">
+        <br>
+        <button type="submit">Register</button>
+        @* <input type="submit" value="submit"> *@
+    </form>
+
+</div>
