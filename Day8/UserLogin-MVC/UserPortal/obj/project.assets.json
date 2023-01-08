@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CDAC DotNet\\SurajRepro\\DotNet\\Day8\\UserLogin-MVC\\UserPortal\\UserPortal.csproj",
+      "projectUniqueName": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day8\\UserLogin-MVC\\UserPortal\\UserPortal.csproj",
       "projectName": "UserPortal",
-      "projectPath": "E:\\CDAC DotNet\\SurajRepro\\DotNet\\Day8\\UserLogin-MVC\\UserPortal\\UserPortal.csproj",
+      "projectPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day8\\UserLogin-MVC\\UserPortal\\UserPortal.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\CDAC DotNet\\SurajRepro\\DotNet\\Day8\\UserLogin-MVC\\UserPortal\\obj\\",
+      "outputPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day8\\UserLogin-MVC\\UserPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

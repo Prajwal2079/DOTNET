@@ -50,3 +50,29 @@ E:\CDAC DotNet\SurajRepro\DotNet\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\
 E:\CDAC DotNet\SurajRepro\DotNet\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.pdb
 E:\CDAC DotNet\SurajRepro\DotNet\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.genruntimeconfig.cache
 E:\CDAC DotNet\SurajRepro\DotNet\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\ref\UserPortal.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\appsettings.Development.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\appsettings.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.staticwebassets.runtime.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.exe
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.deps.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.runtimeconfig.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\bin\Debug\net6.0\UserPortal.pdb
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.csproj.AssemblyReference.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.AssemblyInfoInputs.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.AssemblyInfo.cs
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.csproj.CoreCompileInputs.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.MvcApplicationPartsAssemblyInfo.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.RazorAssemblyInfo.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.RazorAssemblyInfo.cs
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\staticwebassets.build.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\staticwebassets.development.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\scopedcss\bundle\UserPortal.styles.css
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\scopedcss\projectbundle\UserPortal.bundle.scp.css
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\refint\UserPortal.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.pdb
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\UserPortal.genruntimeconfig.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day8\UserLogin-MVC\UserPortal\obj\Debug\net6.0\ref\UserPortal.dll

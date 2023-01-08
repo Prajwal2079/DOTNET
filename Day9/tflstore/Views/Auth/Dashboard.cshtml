@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+@{
+    User currentUser = (User)ViewData["currentUser"];
+    if (currentUser != null)
+    {
+        <h1>Logged In User</h1>
+        <p>@currentUser.name</p>
+    }
+    else
+    {
+        <h1>User not found</h1>
+    }
+}
