@@ -1,0 +1,17 @@
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\BLL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\BLL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\BOL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\DAL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\BOL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\bin\Debug\net6.0\DAL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\BLL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BLL\obj\Debug\net6.0\ref\BLL.dll
