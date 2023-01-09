@@ -10,3 +10,15 @@ D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BOL\obj\Debug\ne
 D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BOL\obj\Debug\net6.0\refint\BOL.dll
 D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.pdb
 D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day10\Ecommerce\BOL\obj\Debug\net6.0\ref\BOL.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\bin\Debug\net6.0\BOL.deps.json
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\bin\Debug\net6.0\BOL.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\bin\Debug\net6.0\BOL.pdb
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.csproj.AssemblyReference.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\refint\BOL.dll
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\BOL.pdb
+E:\CDAC DotNet\MyRepro\New folder\DOTNET\Day10\Ecommerce\BOL\obj\Debug\net6.0\ref\BOL.dll

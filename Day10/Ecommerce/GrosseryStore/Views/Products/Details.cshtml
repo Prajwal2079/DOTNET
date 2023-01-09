@@ -6,10 +6,31 @@
     @{
         Product product = (Product)ViewData["details"];
         <ul>
-            <li>@product.ProdId</li>
-            <li>@product.ProdName</li>
-            <li>@product.Price</li>
-            <li>@product.AvlbUnits</li>
+            <h2>@product.ProdName</h2>
+            <hr>
+            <tr>
+                <th>Product ID:</th>
+                <tr>@product.ProdId</tr>
+            </tr>
+            <br>
+            <br>
+            <tr>
+                <th>Product Name:</th>
+                <tr>@product.ProdName</tr>
+            </tr>
+            <br>
+            <br>
+            <tr>
+                <th>Price:</th>
+                <tr>@product.Price</tr>
+            </tr>
+            <br>    
+            <br>
+            <tr>
+                <th>Available Units::</th>
+                <tr> @product.AvlbUnits</tr>
+            </tr>
+            
         </ul>
     }
     

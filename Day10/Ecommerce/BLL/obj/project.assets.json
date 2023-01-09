@@ -46,24 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dac\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\BLL\\BLL.csproj",
+      "projectUniqueName": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\BLL\\BLL.csproj",
-      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-      "outputPath": "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\BLL\\obj\\",
+      "projectPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\BLL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -77,11 +72,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\BOL\\BOL.csproj": {
-              "projectPath": "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\BOL\\BOL.csproj"
+            "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\BOL\\BOL.csproj": {
+              "projectPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\BOL\\BOL.csproj"
             },
-            "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\PrajwalSurajCDAC\\.NET\\DotNet Git Repo\\DotNet\\Day10\\Ecommerce\\DAL\\DAL.csproj"
+            "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\DAL\\DAL.csproj": {
+              "projectPath": "E:\\CDAC DotNet\\MyRepro\\New folder\\DOTNET\\Day10\\Ecommerce\\DAL\\DAL.csproj"
             }
           }
         }
@@ -101,7 +96,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -110,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

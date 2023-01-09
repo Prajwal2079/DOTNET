@@ -12,8 +12,8 @@ public class ProductManager{
         return DBManager.GetProductById(id);
     }
 
-    public static bool DeleteProductById(int id){
-        return false;
+    public static void DeleteProductById(int id){
+        DBManager.DeleteById(id);
     }
 
     public static void InsertProduct(Product product){

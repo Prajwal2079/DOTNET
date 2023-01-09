@@ -38,4 +38,10 @@ public class ProductsController : Controller
         return Redirect("Display");
     }
 
+    public IActionResult Delete(int id){
+        ProductManager.DeleteProductById(id);
+        Console.WriteLine("In delete controller");
+        return RedirectToAction("Display");
+    }
+
 }

@@ -1,5 +1,6 @@
 namespace DAL;
 using BOL;
+using System.Collections.Generic;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.IO;
@@ -26,6 +27,14 @@ public class DBManager
         List<Product> productsList = GetAllProducts();
         var product = productsList.Find((prod) => { return prod.ProdId == Id; });
         return product as Product;
+    }
+
+    public static void DeleteById(int Id){
+        List<Product> productsList = GetAllProducts();
+        var product = productsList.Find((prod) => { return prod.ProdId == Id; });
+        productsList.Remove(product);
+        var productJson = JsonSerializer.Serialize<List<Product>>(productsList);
+        File.WriteAllText("../products.json",productJson);
     }
 
 }

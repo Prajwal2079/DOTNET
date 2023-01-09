@@ -3,18 +3,32 @@
     ViewData["Title"] = "Display Product Page";
 }
 
-<div>
-    @{
-        List<Product> productList = (List<Product>)ViewData["details"];
-        <table>
-        @foreach(Product product in productList){
+
+
+@{
+    List<Product> productList = (List<Product>)ViewData["details"];
+    <table class="table">
+        <thead class="thead-dark">
             <tr>
-                <td><a href="/Products/Details/@product.ProdId">@product.ProdName</a></td>
-                @* <td>@product.ProdName</td>
-                <td>@product.Price</td>
-                <td>@product.AvlbUnits</td> *@
+                <th scope="col">Product ID</th>
+                <th scope="col">Product Name</th>
+                <th scope="col">Product Price</th>
+                <th scope="col">Available Unit</th>
+                <th scope="col">Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (Product product in productList)
+        {
+            <tr>
+                <th scope="row">@product.ProdId</th>
+                <td scope="row"><a href="/Products/Details/@product.ProdId">@product.ProdName</td>
+                <td scope="row">@product.Price</td>
+                <td scope="row">@product.AvlbUnits</td>
+                <td scope="row"><a href="/Products/Delete/@product.ProdId">Delete</a></td>
             </tr>
         }
-        </table>
-    }
-</div>
+        </tbody>
+    </table>
+
+}
