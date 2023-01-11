@@ -1,0 +1,30 @@
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.dll
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.pdb
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.dll
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.pdb
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.dll
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.pdb
+D:\PrajwalSurajCDAC\.NET\Data\dotnet\Day12\ECommerce\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.pdb
+D:\PrajwalSurajCDAC\.NET\DotNet Git Repo\DotNet\Day12\ECommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

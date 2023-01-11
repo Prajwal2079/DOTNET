@@ -1,0 +1,49 @@
+/* _content/GrosseryStore/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vos6dloudk] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vos6dloudk] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vos6dloudk] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vos6dloudk], .nav-pills .show > .nav-link[b-vos6dloudk] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vos6dloudk] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vos6dloudk] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vos6dloudk] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vos6dloudk] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vos6dloudk] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
