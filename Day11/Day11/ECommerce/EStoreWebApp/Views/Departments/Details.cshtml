@@ -1,0 +1,42 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Department Detail";
+}
+
+
+<h2> Department Deatil </h2>
+@{
+    List<Department> dept = (List<Department>)ViewData["details"];
+    <table class="table">
+        <tbody>
+            @foreach (Department department in dept)
+            {
+                <br><br>
+                <tr>
+                    <ul>
+                        <h2>@department.Name</h2>
+                        <hr>
+                <tr>
+                    <th>Department ID:</th>
+                    <td>@department.Id</td>
+                </tr>
+                <br>
+                <br>
+                <tr>
+                    <th>Department Name:</th>
+                    <td>@department.Name</td>
+                </tr>
+                <br>
+                <br>
+                <tr>
+                    <th>Location:</th>
+                    <td>@department.Location</td>
+                </tr>
+                </ul>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+}
